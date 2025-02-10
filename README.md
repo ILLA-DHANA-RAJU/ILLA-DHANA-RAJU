@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Dhana Raju Illa! 👋</h1>
+<p align="center">
+  🚀 Web Developer | IoT & ML Enthusiast | Open Source Contributor  
+</p>
 
-<!--
-**ILLA-DHANA-RAJU/ILLA-DHANA-RAJU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0FFDF6&center=true&width=500&lines=Welcome+to+my+GitHub!;I+love+coding+and+innovation!;Always+learning+new+tech!" alt="Typing SVG">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 **About Me**
+- 🔭 Working on **IoT & Web Development Projects**
+- 🎯 Exploring **AI-powered applications**
+- 💡 Passionate about **Machine Learning & Automation**
+- 📚 Learning **Next.js & Advanced Python**
+- ⚡ Fun fact: *I love problem-solving & hardware tinkering!*
+
+---
+
+### 🚀 **Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,flask,arduino,mysql,sqlite" />
+</p>
+
+---
+
+### 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ILLA-DHANA-RAJU&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+</p>
+
+---
+
+### 🚀 **Top Languages**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILLA-DHANA-RAJU&layout=compact&theme=tokyonight" alt="Top Languages">
+</p>
+
+---
+
+### 🏆 **GitHub Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ILLA-DHANA-RAJU&theme=radical" alt="GitHub Trophies">
+</p>
+
+---
+
+### ⚡ **Fun Activity: Random Dev Quote**
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
+</p>
+
+---
+
+### 🚀 **Dynamic Profile Views**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ILLA-DHANA-RAJU&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views">
+</p>
+
+---
+
+### 🌎 **Let's Connect!**
+<p align="center">
+  <a href="http://www.linkedin.com/in/dhana-raju-illa-8906842a8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+
