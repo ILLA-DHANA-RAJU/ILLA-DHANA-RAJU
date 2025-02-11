@@ -20,7 +20,7 @@
 
 ### 🚀 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,flask,arduino,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,react,flask,arduino,mysql,sqlite" />
 </p>
 
 ---
@@ -34,36 +34,18 @@
 
 ## 🚀 **Top Languages**
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F78A1F&center=true&vCenter=true&width=435&lines=My+Technical+Skills" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILLA-DHANA-RAJU&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
 ---
 
-### 🔥 **Dynamic Language Proficiency**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ILLA-DHANA-RAJU&theme=tokyonight&margin-w=5" alt="GitHub Trophy">
-</p>
-
----
-
-### 🌟 **Animated Skill Badges**
-<p align="center">
-  <img src="https://img.shields.io/badge/C-75%25-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-65%25-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-80%25-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-70%25-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-60%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React.js-50%25-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Flask-45%25-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/Arduino-40%25-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-</p>
-
-
----
-
 ### 🏆 **GitHub Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ILLA-DHANA-RAJU&theme=radical" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=ILLA-DHANA-RAJU&theme=radical&margin-w=10" alt="GitHub Trophies">
 </p>
 
 ---
@@ -77,7 +59,7 @@
 
 ### 🚀 **Dynamic Profile Views**
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ILLA-DHANA-RAJU&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=ILLA-DHANA-RAJU&label=Profile%20Views&color=brightgreen&style=flat&margin-w=5" alt="Profile Views">
 </p>
 
 ---
@@ -85,8 +67,8 @@
 ### 🌎 **Let's Connect!**
 <p align="center">
   <a href="http://www.linkedin.com/in/dhana-raju-illa-8906842a8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/ILLA-DHANA-RAJU"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:illadhanaraju@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 
