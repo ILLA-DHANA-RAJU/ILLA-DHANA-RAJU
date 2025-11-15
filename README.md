@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Dhana Raju Illa! 👋</h1>
 <p align="center">
-  🚀 Web Developer | IoT & ML Enthusiast | Open Source Contributor  
+  🚀 Python Developer | Tech Enthusiast | Open Source Contributor  
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 ---
 
 ### 🌟 **About Me**
-- 🔭 Working on **IoT & Web Development Projects**
+- 🔭 Working on **Web Development Projects**
 - 🎯 Exploring **AI-powered applications**
 - 💡 Passionate about **Machine Learning & Automation**
 - 📚 Learning **Next.js & Advanced Python**
