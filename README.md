@@ -66,7 +66,7 @@
 
 ### 🌎 **Let's Connect!**
 <p align="center">
-  <a href="http://www.linkedin.com/in/dhana-raju-illa-8906842a8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="http://www.linkedin.com/in/dhanarajuilla"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/ILLA-DHANA-RAJU"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="mailto:illadhanaraju@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
