@@ -1,78 +1,41 @@
-<h1 align="center">Hi, I'm Dhana Raju Illa 👋</h1>
+<h1 align="center">Hi, I'm Dhana Raju Illa! 👋</h1>
 <p align="center">
-  💻 Full Stack Python Developer | Django Specialist | ML Enthusiast  
+  🚀 Python Developer | Tech Enthusiast | Open Source Contributor  
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0FFDF6&center=true&width=600&lines=Django+Full+Stack+Developer;Building+Real+World+Web+Applications;Focused+on+Backend+Logic+%26+System+Design" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0FFDF6&center=true&width=500&lines=Welcome+to+my+GitHub!;I+love+coding+and+innovation!;Always+learning+new+tech!" alt="Typing SVG">
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 🧠 Strong foundation in **Python & Django**
-- 🛒 Built a complete **E-Commerce Web Application**
-- 📊 Experience with **Machine Learning (Random Forest, Data Processing)**
-- 🔧 Worked on **IoT + Web Integration Projects**
-- 🏗️ Focused on writing clean backend logic and scalable structure
-- 📈 Continuously improving problem-solving and system design skills
+### 🌟 **About Me**
+- 🔭 Working on **Web Development Projects**
+- 🎯 Exploring **AI-powered applications**
+- 💡 Passionate about **Machine Learning & Automation**
+- 📚 Learning **Next.js & Advanced Python**
+- ⚡ Fun fact: *I love problem-solving & hardware tinkering!*
 
 ---
 
-## 🛠️ Technical Skills
-
-### 💻 Programming
-- Python
-- C
-- JavaScript
-
-### 🌐 Web Development
-- Django
-- Flask
-- HTML5
-- CSS3
-- React (Basics)
-
-### 🗄️ Database
-- MySQL
-- SQLite
-
-### ⚙️ Tools & Concepts
-- Git & GitHub
-- REST APIs
-- MVC Architecture
-- Authentication Systems
-- OOP
-- Basic Machine Learning
+### 🚀 **Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,react,flask,arduino,mysql,sqlite" />
+</p>
 
 ---
 
-## 🛒 Featured Project
-
-### 🔹 Django E-Commerce Web Application
-
-**Features:**
-- Customer & Vendor Roles
-- Product Management
-- Cart & Order System
-- Payment Module
-- Search Functionality
-- Admin Dashboard
-
-**Tech Used:** Django, HTML, CSS, JavaScript, SQLite
-
----
-
-## 📊 GitHub Stats
-
+### 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ILLA-DHANA-RAJU&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </p>
 
 ---
 
-## 🔝 Top Languages
+## 🚀 **Top Languages**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F78A1F&center=true&vCenter=true&width=435&lines=My+Technical+Skills" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILLA-DHANA-RAJU&layout=compact&theme=tokyonight" alt="Top Languages">
@@ -80,31 +43,33 @@
 
 ---
 
-## 🎯 Current Focus
-
-- Improving backend architecture
-- Building scalable Django applications
-- Strengthening Data Structures & Algorithms
-- Preparing for product-based company roles
-
----
-
-## 🌎 Connect With Me
-
+### 🏆 **GitHub Trophies**
 <p align="center">
-  <a href="http://www.linkedin.com/in/dhanarajuilla">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/ILLA-DHANA-RAJU">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="mailto:illadhanaraju@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ILLA-DHANA-RAJU&theme=radical&margin-w=10" alt="GitHub Trophies">
 </p>
 
 ---
 
+### ⚡ **Fun Activity: Random Dev Quote**
 <p align="center">
-  ⚡ "Consistency beats intensity."
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
 </p>
+
+---
+
+### 🚀 **Dynamic Profile Views**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ILLA-DHANA-RAJU&label=Profile%20Views&color=brightgreen&style=flat&margin-w=5" alt="Profile Views">
+</p>
+
+---
+
+### 🌎 **Let's Connect!**
+<p align="center">
+  <a href="http://www.linkedin.com/in/dhanarajuilla"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/ILLA-DHANA-RAJU"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:illadhanaraju@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+
+
