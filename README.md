@@ -1,6 +1,6 @@
 <h1 align="center">Dhana Raju Illa</h1>
 <p align="center">
-  Full Stack Python Developer | Django Specialist | Backend-Focused Engineer
+  Full Stack Python Developer | Django Based Application Development | Machine Learning Enthusiast 
 </p>
 
 ---
@@ -38,7 +38,6 @@ I focus on writing clean backend logic, scalable structure, and production-style
 
 ### ⚙️ Tools & Concepts
 - Git & GitHub
-- REST APIs
 - Authentication Systems
 - MVT Architecture
 - OOP Principles
@@ -53,10 +52,10 @@ I focus on writing clean backend logic, scalable structure, and production-style
 - Product management system
 - Cart & order workflow
 - Payment module
-- Admin dashboard
+- Vendor dashboard
 - Search functionality
 
-**Tech:** Django, HTML, CSS, JavaScript, SQLite
+**Tech:** Python, Django, HTML, CSS, JavaScript, MYSQL 
 
 ---
 
@@ -106,8 +105,12 @@ I focus on writing clean backend logic, scalable structure, and production-style
   </a>
 </p>
 
+
 ---
 
 <p align="center">
   Consistency > Motivation
+  Let's conncet 
 </p>
+
+
