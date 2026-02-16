@@ -69,23 +69,6 @@ I focus on writing clean backend logic, scalable structure, and production-style
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ILLA-DHANA-RAJU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
----
-
-## 🔝 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILLA-DHANA-RAJU&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
-
-
----
-
 ## 🎯 Current Focus
 
 - Building scalable Django applications
